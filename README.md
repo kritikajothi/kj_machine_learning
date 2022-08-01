@@ -2,6 +2,10 @@
 
 Welcome to the DATA 310: Applied Machine Learning GitHub Page
 
+### Project 3: Grid Search Algorithms
+- Completion Date: July 31, 2022
+- Access [Project 3](https://colab.research.google.com/drive/1alwfrkQffWy3toAUyOJe9I2MBieE19nA?usp=sharing) on Google Colab
+
 ### Project 2: Residuals and Regularized Regression Models - Ridge, Lasso, Elastic Net
 - Completion Date: July 20, 2022
 - Access [Project 2](https://colab.research.google.com/drive/15XHq0VBE1Ra1YG7eY4xXnWSJvSpoW6Ke?usp=sharing) on Google Colab
